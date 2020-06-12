@@ -1,16 +1,21 @@
-# playground
+# Wallpaperrr
 
-A new Flutter application.
+A Flutter Application that queries unsplash.com for images, and automatically sets them as wallpaper according to users' settings
 
-## Getting Started
+## Download Now
 
-This project is a starting point for a Flutter application.
+Platforms where it's available now:
 
-A few resources to get you started if this is your first Flutter project:
+[Get It On Playstore](https://flutter.dev/docs/get-started/codelab)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[Get It On App Store](https://flutter.dev/docs)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## About
+
+Made this project to practice querying data & using provider state management.
+
+Inspired by Resplash!
+[Be Sure to check it on Play Store](playstore.com/resplash)
+
+Also Check Out Unsplash!
+[Unsplash.com](unsplash.com)
