@@ -1,6 +1,6 @@
 # Wallpaperrr
 
-A Flutter Application that queries unsplash.com for images, and automatically sets them as awallpaper according to users' settings
+A Flutter Application that queries unsplash.com for images, and automatically sets them as a wallpaper according to users' settings
 
 ## Download Now
 
