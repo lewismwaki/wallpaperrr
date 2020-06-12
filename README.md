@@ -6,7 +6,7 @@ A Flutter Application that queries unsplash.com for images, and automatically se
 
 Platforms where it's available now:
 
-[Get It On Playstore](https://flutter.dev/docs/get-started/codelab)
+[Get It On Play Store](https://flutter.dev/docs/get-started/codelab)
 
 [Get It On App Store](https://flutter.dev/docs)
 
